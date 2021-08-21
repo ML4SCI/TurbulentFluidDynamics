@@ -1,3 +1,8 @@
+#### Note
+This directory contains the work done by Amey Varhade, as part of the Machine Learning for Science(ML4SCI) umbrella organization. 
+The work here might not be updated very frequently, this directory is a mirror of the repository maintained individually, check [Machine_Learning_for_Turbulent_Fluid_Dynamics](https://github.com/yemaedahrav/Machine_Learning_for_Turbulent_Fluid_Dynamics)
+
+
 <div align="center">
 
   # Machine Learning for Turbulent Fluid Dynamics
