@@ -3,6 +3,10 @@ This directory contains the work done by Amey Varhade, as part of the Machine Le
 The work here might not be updated very frequently, this directory is a mirror of the repository maintained individually, check [Machine_Learning_for_Turbulent_Fluid_Dynamics](https://github.com/yemaedahrav/Machine_Learning_for_Turbulent_Fluid_Dynamics)
 
 
+
+
+
+
 <div align="center">
 
   # Machine Learning for Turbulent Fluid Dynamics
@@ -23,7 +27,6 @@ This repository consists of the work done as a student developer by Amey Varhade
 
 
 ## Project Details
-
 
   [Project Idea](https://ml4sci.org/gsoc/2021/proposal_TURBULENT.html)
 
@@ -47,8 +50,7 @@ This repository consists of the work done as a student developer by Amey Varhade
 
   
   
-
-
+  
 ## Abstract
 
 Generating the data directly from the quasilinear and fully nonlinear simulations is extremely computationally expensive and infeasible. We work on reducing the dimensionality of the data through various Machine Learning techniques. The current work done during GSoC mainly involved Proper Orthogonal Decomposition (POD) in the spectral space.   
